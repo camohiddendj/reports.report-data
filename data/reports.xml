@@ -159,5 +159,11 @@
                 Solve shape dunks for Salvation's Edge 4th (Verity) Encounter.
             </description>
         </report>
+        <report>
+            <host>wrapped</host>
+            <description>
+                An app to compile your yearly stats, very similar to Spotify wrapped!
+            </description>
+        </report>
     </reports>
 </data>
